@@ -10,3 +10,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Git create branch dev.
+Git saved working directory and index state WIP on dev.
